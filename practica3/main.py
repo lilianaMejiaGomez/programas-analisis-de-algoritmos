@@ -3,7 +3,7 @@ import ordenamientos
 import benchmark
 
 #lista
-tamanos = [10, 100]
+tamanos = [10, 100, 200, 300, 350]
 
 #algoritmo
 tiempos_selection = []
